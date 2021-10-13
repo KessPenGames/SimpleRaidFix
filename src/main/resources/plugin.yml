@@ -1,0 +1,6 @@
+name: SimpleRaidFix
+version: '${project.version}'
+main: simple.raid.fixer.Main
+api-version: 1.17
+authors: [ KessPenGames ]
+description: Можанги настолько гении что за них приходится дыры чинить. Плагин сделан для сервера ForScore
